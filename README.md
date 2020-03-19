@@ -5,3 +5,17 @@
 # __PURPOSE__
 
 Create a real-time map of San Diego that allows volunteers to support the less fortunate during the COVID-19 epidemic. 
+
+- Have group call for people helping
+
+people with radios and phones
+
+- high schoolers and vetted adults
+
+discord nitro turbo
+
+split into different sections
+
+add discord to web ui
+
+each discord area is a region in san diego
