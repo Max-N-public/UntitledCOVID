@@ -16,6 +16,6 @@ discord nitro turbo
 
 split into different sections
 
-add discord to web ui
+add discord, google hangout, and email group to web ui
 
 each discord area is a region in san diego
